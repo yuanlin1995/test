@@ -10,4 +10,4 @@ class Index extends Vue {
 }
 
 const ins = new Index()
-console.log(ins.dosomething())
+ins.dosomething()
